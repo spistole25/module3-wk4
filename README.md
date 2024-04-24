@@ -10,3 +10,7 @@ if you don't use curly brackets within the higher order function it's "implicit"
 lodash
 
 file system access
+
+const file fs.readFileSync('./data.json')
+    ./ means you're looking in the folder you're currently in
+
